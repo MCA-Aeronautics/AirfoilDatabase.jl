@@ -1,0 +1,10 @@
+name = "AirfoilDatabase"
+uuid = "874188ba-a430-49f5-a1da-c5ba3c632279"
+authors = ["Eduardo J. Alvarez <Edo.AlvarezR@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+DataStructures = "864edb3b-99cc-5e75-8d2d-829cb0a9cfe8"
+
+[compat]
+julia = "1.4"
