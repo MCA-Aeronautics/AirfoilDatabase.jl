@@ -1,2 +1,1 @@
-Airfoil,Re,Mach,Panels,Ncrit,Degrees,xy file,Cl file,Cd file,Cm file,xupsep file,xlosep file,Differentiator
-MyAirfoil,0,0,0,0,true,asdasd, , , , , ,0
+NACA 0012,1.0e7,0.0,160,9.0,true,NACA0012-npanels160-0.csv,NACA0012-Cl-re10000000-ma0p0-ncrit9p0-0.csv,NACA0012-Cd-re10000000-ma0p0-ncrit9p0-0.csv,NACA0012-Cm-re10000000-ma0p0-ncrit9p0-0.csv, , ,0

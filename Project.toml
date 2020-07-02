@@ -5,6 +5,8 @@ version = "0.1.0"
 
 [deps]
 DataStructures = "864edb3b-99cc-5e75-8d2d-829cb0a9cfe8"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+JuliaDB = "a93385a2-3734-596a-9a66-3cfbb77141e6"
 AirfoilPrep = "008c61af-3522-4e14-81c5-9301d18a9f66"
 
 [compat]
